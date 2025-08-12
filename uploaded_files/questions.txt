@@ -1,0 +1,5 @@
+Analyze the 'data.csv' file.
+1. What is the average 'Price'?
+2. What is the total 'Quantity'?
+3. Plot a bar chart of 'Product' vs 'Quantity'. Save it as 'plot.png' and return its base64 data URI.
+Respond with a JSON object where keys are the questions and values are the answers.
